@@ -1,0 +1,10 @@
+{
+  "name": "jekyll-serve",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "serve _site"
+  },
+  "dependencies": {
+    "serve": "^14.2.0"
+  }
+}
